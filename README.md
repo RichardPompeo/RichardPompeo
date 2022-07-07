@@ -1,7 +1,6 @@
 ## Hello! I'm Richard Pompeo
 
 - 🔭 I'm currently working as a Full Stack Developer at Tunts Rocks
-- 🌱 I'm working with React
 
 <div align="center">
   <a href="https://github.com/RichardPompeo">
@@ -22,7 +21,5 @@
 <div> 
   <a href="mailto:pompeorichard@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-pompeo-013938244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-![Snake animation](https://github.com/RichardPompeo/RichardPompeo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
