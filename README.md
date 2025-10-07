@@ -1,5 +1,7 @@
 ## Hello! I'm Richard Pompeo
 
+Full-Stack Developer with 4+ years of experience in web and cloud-based systems. Strong background in Python, React, GCP, and automation pipelines using Google ADK, LangChain, and Docker. Focused on scalability, testing, and clean architecture.
+
 <div>
   <a href="https://github.com/RichardPompeo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardPompeo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
